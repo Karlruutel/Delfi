@@ -1,0 +1,12 @@
+element.style{
+
+}
+
+*, :after, :before{
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
